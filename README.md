@@ -11,3 +11,5 @@ Space - Ground
 Coordinate Grabber
  * Scripts for a control center and small drone
  * Use keybind to automatically send coordinates from the drone to the control center, useful for Space - Ground bombardments.
+
+no AI used
