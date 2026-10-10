@@ -1,6 +1,7 @@
 Space - Space
  * Contains scripts to automatically target enemy ships, and avoid the given coordinates of a ship.
  * Implementation of protected coordinates is up to user
+ * https://www.desmos.com/calculator/n0tsux9jcc
 
 Space - Ground
  * Allows for orbital bombardments of ground locations
